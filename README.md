@@ -3,7 +3,7 @@ This repository contains all the information for the first assignment of the Dat
 
 ### Informtaion
 * Student Name: Henry  
-* File Name: [Henry_103032027.ipynb](master/Henry_103032027.ipynb)
+* File Name: (Henry_103032027.ipynb)
 
 ### Assignmet Instructions
 - First, you should attempt the **take home** exercises provided in the [notebook](https://github.com/omarsar/data_mining_lab/blob/master/news_data_mining.ipynb) we used for the first lab session. Attempt all the exercises, as it is counts towards the final grade of your first assignment (20%). 
